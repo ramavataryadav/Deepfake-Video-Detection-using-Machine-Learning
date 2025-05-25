@@ -103,6 +103,7 @@ This directory consists of comprehensive project documentation covering the prob
 ## 7. Our Results Snapshot
 ![Image](https://github.com/user-attachments/assets/0f6d6d0f-70b3-4e85-ae58-faf220f04e9d)
 ![Image](https://github.com/user-attachments/assets/550f86ba-cc13-4d98-b102-b12aff5f3011)
+![Image](https://github.com/user-attachments/assets/3d0734fe-225b-4aff-a394-56fca78410ba)
 
 ## 8. How to Use
 1. Clone the repository
