@@ -100,7 +100,7 @@ This directory consists of comprehensive project documentation covering the prob
 - [Deepfake Detection Dataset (DFD)](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
 
 ---
-## 7 Our Results
+## 7. Our Results Snapshot
 ![Image](https://github.com/user-attachments/assets/0f6d6d0f-70b3-4e85-ae58-faf220f04e9d)
 ![Image](https://github.com/user-attachments/assets/550f86ba-cc13-4d98-b102-b12aff5f3011)
 
