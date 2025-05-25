@@ -107,7 +107,7 @@ This directory consists of comprehensive project documentation covering the prob
 ![Image](https://github.com/user-attachments/assets/9547992d-323f-4edf-b846-fa86178076fc)
 ## 8. How to Use
 1. Clone the repository
-2. Install dependencies listed in `requirements.txt`
+2. Install dependencies listed in `requirements.txt` $pip install -r requirements.txt
 3. Prepare your dataset or upload a video via the Flask interface
 4. Run training scripts (optional) or directly use the pre-trained model for predictions
 5. Launch the Flask server and access the web interface
