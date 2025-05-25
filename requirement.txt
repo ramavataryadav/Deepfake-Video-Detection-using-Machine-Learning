@@ -1,1 +1,6 @@
-
+flask 
+torch 
+torchvision 
+opencv-python 
+numpy
+face_recognition
