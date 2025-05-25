@@ -101,9 +101,11 @@ This directory consists of comprehensive project documentation covering the prob
 
 ---
 ## 7 Our Results
-[![Uploading image.png…]()](https://github.com/ramavataryadav/Deepfake-Video-Detection-using-Machine-Learning/issues/1#issue-3089089374)
+![Image](https://github.com/ramavataryadav/Deepfake-Video-Detection-using-Machine-Learning/issues/1#issue-3089089374)
 
-## 7. How to Use
+![Image](https://github.com/user-attachments/assets/550f86ba-cc13-4d98-b102-b12aff5f3011)
+
+## 8. How to Use
 1. Clone the repository
 2. Install dependencies listed in `requirements.txt`
 3. Prepare your dataset or upload a video via the Flask interface
@@ -112,11 +114,11 @@ This directory consists of comprehensive project documentation covering the prob
 
 ---
 
-## 8. License
+## 9. License
 This project is licensed under the MIT License.
 
 ---
 
-## 9. Acknowledgements
+## 10. Acknowledgements
 - Researchers and contributors of deepfake datasets
 - Open-source ML and CV communities
