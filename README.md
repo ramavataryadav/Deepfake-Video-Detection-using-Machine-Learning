@@ -4,47 +4,46 @@ In today’s world of growing social media, deepfake videos are a big threat as 
 
 # 2. Architecture: Deepfake Detection Pipeline
 1. Input Interface
-   
-Video Input Module
-  . Upload Interface (User-uploaded video)
-  . Dataset Loader (Labeled Fake/Real training videos)
+   Video Input Module
+     . Upload Interface (User-uploaded video)
+     . Dataset Loader (Labeled Fake/Real training videos)
 
 3. Preprocessing Module
-Frame Extractor
-  . Converts videos to frame sequences
-Face Analyzer
-  . Face Detection
-  . Face Alignment & Cropping
+   Frame Extractor
+     . Converts videos to frame sequences
+   Face Analyzer
+     . Face Detection
+     . Face Alignment & Cropping
 Preprocessed Face Frame Storage
   . Stores face-only frames for downstream processing
 
-4. Dataset Handling
+5. Dataset Handling
 Data Organizer
   . Organizes data into training, validation, and test sets
 Batch Generator
   . Loads face sequences with labels in batches for training and evaluation
 
-5. Feature Engineering
+6. Feature Engineering
 Feature Extraction Module
   . ResNext / EfficientNet
   . Converts face frames to deep feature representations
 
-6. Temporal Modeling
+7. Temporal Modeling
 Sequence Modeling
   . LSTM / Transformer
   . Captures temporal dependencies across frames
 
-7. Classification
+8. Classification
 Video Classification Head
   . Final prediction: Real or Fake
 
-8. Training & Evaluation
+9. Training & Evaluation
 Training Controller
   . Orchestrates model training and validation
 Metrics Evaluator
   . Generates confusion matrix, accuracy, precision, recall
 
-9. Deployment & Inference
+10. Deployment & Inference
 Model Exporter
   . Saves the trained model
 Inference Engine
