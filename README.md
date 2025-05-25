@@ -67,6 +67,42 @@ A simple **web application** allows users to upload videos and receive real-time
 ---
 
 ## 3. Flow Overview
-
 ### 🔁 **Training Flow**
+Dataset → Preprocessing → Feature Extraction + Temporal Modeling → Training + Evaluation
+### 📡 **Prediction Flow**
+Upload Video → Preprocessing → Feature Extraction + Temporal Modeling → Prediction
+
+## 4. Technologies Used
+- Python
+- OpenCV / Dlib (Face detection and preprocessing)
+- PyTorch / TensorFlow (Model development)
+- ResNeXt / EfficientNet (CNNs for feature extraction)
+- LSTM / Transformer (Temporal sequence modeling)
+- Flask / Streamlit (Web application interface)
+
+---
+
+## 5. Datasets
+- [FaceForensics++](https://github.com/ondyari/FaceForensics)
+- [Celeb-DF](https://github.com/yuezunli/Celeb-DF)
+- [Deepfake Detection Dataset (DFD)](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
+
+---
+
+## 6. How to Use
+1. Clone the repository
+2. Install dependencies
+3. Prepare the dataset (or upload your own video)
+4. Run the training script or use the web interface for prediction
+
+---
+
+## 7. License
+This project is licensed under the MIT License.
+
+---
+
+## 8. Acknowledgements
+- Researchers and contributors of deepfake datasets
+- Open-source ML and CV communities
 
