@@ -104,8 +104,7 @@ This directory consists of comprehensive project documentation covering the prob
 ![Image](https://github.com/user-attachments/assets/0f6d6d0f-70b3-4e85-ae58-faf220f04e9d)
 ![Image](https://github.com/user-attachments/assets/550f86ba-cc13-4d98-b102-b12aff5f3011)
 ![Image](https://github.com/user-attachments/assets/3d0734fe-225b-4aff-a394-56fca78410ba)
-![Image](https://github.com/user-attachments/assets/40d123b6-e0e1-43e0-bf76-26cffc8be71f)
-
+![Image](https://github.com/user-attachments/assets/9547992d-323f-4edf-b846-fa86178076fc)
 ## 8. How to Use
 1. Clone the repository
 2. Install dependencies listed in `requirements.txt`
