@@ -1,1 +1,3 @@
 # Deepfake-Video-Detection-using-Machine-Learning
+Introdution:-
+In today’s world of growing social media, deepfake videos are a big threat as they can be used for fake news, blackmail, or political harm. These videos are made using apps like FaceApp and Face Swap that use AI. Our system helps detect deepfakes by using a CNN model (ResNeXt) to get important features from video frames. Then, an LSTM model checks the video frame-by-frame to decide if it’s real or fake. We trained the system using well-known deepfake datasets like FaceForensics++, Celeb-DF, and DFD. A simple web app lets users upload videos and get results showing if the video is deepfake or real, along with a confidence score.
