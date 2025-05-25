@@ -101,8 +101,7 @@ This directory consists of comprehensive project documentation covering the prob
 
 ---
 ## 7 Our Results
-![Image](https://github.com/ramavataryadav/Deepfake-Video-Detection-using-Machine-Learning/issues/1#issue-3089089374)
-
+![Image](https://github.com/user-attachments/assets/0f6d6d0f-70b3-4e85-ae58-faf220f04e9d)
 ![Image](https://github.com/user-attachments/assets/550f86ba-cc13-4d98-b102-b12aff5f3011)
 
 ## 8. How to Use
